@@ -2,6 +2,10 @@
 
 Repositorio reservado para un proyecto web de portfolio de Román González.
 
+## Tecnologías
+
+Por definir cuando se implemente la primera versión. Actualmente no corresponde atribuirle HTML, JavaScript, React, Java o SQL.
+
 ## Estado actual
 
 Pendiente de implementación. El repositorio no contiene todavía una aplicación, por lo que no hay instrucciones de ejecución, demo ni pruebas que puedan verificarse.
